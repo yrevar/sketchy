@@ -1,16 +1,13 @@
 # Sketchy
 http://sketchy.eye.gatech.edu/
 
-
 Caffemodel for our final Triplet GoogleNet network: https://goo.gl/NAk8CT
-
-## papers
-http://www.cc.gatech.edu/~hays/tmp/sketchy-database.pdf
-http://users.eecs.northwestern.edu/~jwa368/pdfs/deep_ranking.pdf
-http://bcmi.sjtu.edu.cn/~zhangliqing/Papers/2011CVPR-ImageSearch-Cao.pdf
 
 
 ## Setup (MAC OSX)
-Used docker build for many reasons: https://github.com/BVLC/caffe/tree/master/docker
+1. Setup caffe using [caffe's docker build](https://github.com/BVLC/caffe/tree/master/docker). I decided to use ["All-in-one Docker image for Deep Learning"] (https://github.com/saiprashanths/dl-docker) as it supports iPython notebook and lot of other useful tools. It takes roughly 5x more time to build compared to caffe's dockerfile, but it was worth the wait. To run iPython notebook, additionally I had to set password for the notebook, instructions are available [here](http://jupyter-notebook.readthedocs.io/en/latest/public_server.html).
 
-
+## Papers
+http://www.cc.gatech.edu/~hays/tmp/sketchy-database.pdf
+http://users.eecs.northwestern.edu/~jwa368/pdfs/deep_ranking.pdf
+http://bcmi.sjtu.edu.cn/~zhangliqing/Papers/2011CVPR-ImageSearch-Cao.pdf
