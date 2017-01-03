@@ -11,6 +11,10 @@ Caffemodel for final Triplet GoogleNet network: https://goo.gl/NAk8CT
  - iPython needs to be run as a public notebook server. This is already configured in the dl-docker image. All that is left to do is to secure the server with a password, instructions are available [here](http://jupyter-notebook.readthedocs.io/en/latest/public_server.html).
  - Additionally, port mapping is required between target and host ports. This can easily be done by passing "-p < host_port_no >:< target_port_no >" as an argument while launching docker container.
 
+## Resources
+CaffeNet deploy architecture: http://ethereon.github.io/netscope/#/gist/df3579b407601930c6a7f4021bd917fe
+CaffeNet train_val architecture: http://ethereon.github.io/netscope/#/gist/955d3675f7df6b8152a3af33420ae8c3
+
 # References
 - Forked from: https://github.com/janesjanes/sketchy
 - Patsorn Sangkloy, Nathan Burnell, Cusuh Ham, James Hays. [The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies](http://www.cc.gatech.edu/~hays/tmp/sketchy-database.pdf).
@@ -21,4 +25,4 @@ Caffemodel for final Triplet GoogleNet network: https://goo.gl/NAk8CT
 - [Learning a Similarity Metric Discriminatively, with Application to Face
 Verification] http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf
 - [Edgel Index for Large-Scale Sketch-based Image Search](http://bcmi.sjtu.edu.cn/~zhangliqing/Papers/2011CVPR-ImageSearch-Cao.pdf).
-- http://vision.ia.ac.cn/zh/senimar/reports/Siamese-Network-Architecture-and-Applications-in-Computer-Vision.pdf
+- CaffeNet fine-tuning tips: https://github.com/BVLC/caffe/tree/master/examples/finetune_flickr_style
