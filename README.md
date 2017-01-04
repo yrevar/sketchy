@@ -25,4 +25,4 @@ CaffeNet train_val architecture: http://ethereon.github.io/netscope/#/gist/955d3
 - [Learning a Similarity Metric Discriminatively, with Application to Face
 Verification] http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf
 - [Edgel Index for Large-Scale Sketch-based Image Search](http://bcmi.sjtu.edu.cn/~zhangliqing/Papers/2011CVPR-ImageSearch-Cao.pdf).
-- CaffeNet fine-tuning tips: https://github.com/BVLC/caffe/tree/master/examples/finetune_flickr_style
+- CaffeNet fine-tuning tips: http://caffe.berkeleyvision.org/gathered/examples/finetune_flickr_style.html
