@@ -26,3 +26,4 @@ CaffeNet train_val architecture: http://ethereon.github.io/netscope/#/gist/955d3
 Verification] http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf
 - [Edgel Index for Large-Scale Sketch-based Image Search](http://bcmi.sjtu.edu.cn/~zhangliqing/Papers/2011CVPR-ImageSearch-Cao.pdf).
 - CaffeNet fine-tuning tips: http://caffe.berkeleyvision.org/gathered/examples/finetune_flickr_style.html
+- Tutorial - ["Deep Learning using NVIDIA DIGITS 3 on EC2"](https://www.youtube.com/watch?v=QZaAcl_F9R0) by Satya Malik
