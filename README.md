@@ -1,4 +1,4 @@
-<img src="https://i.kinja-img.com/gawker-media/image/upload/s--1tsNRb4_--/c_scale,f_auto,fl_progressive,q_80,w_800/1996og1benxdkgif.gif" width="200">
+![](https://i.kinja-img.com/gawker-media/image/upload/s--1tsNRb4_--/c_scale,f_auto,fl_progressive,q_80,w_800/1996og1benxdkgif.gif)
 <br>Under Construction!
 
 # Sketchy
