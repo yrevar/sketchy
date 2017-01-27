@@ -1,4 +1,4 @@
-![](https://i.kinja-img.com/gawker-media/image/upload/s--1tsNRb4_--/c_scale,f_auto,fl_progressive,q_80,w_800/1996og1benxdkgif.gif)
+![](https://i.kinja-img.com/gawker-media/image/upload/s--1tsNRb4_--/c_scale,f_auto,fl_progressive,q_80,w_800/1996og1benxdkgif.gif=160x90)
 <br>Under Construction!
 
 # Sketchy
@@ -25,6 +25,13 @@ Caffemodel for final Triplet GoogleNet network: https://goo.gl/NAk8CT
     Examples:  
     - CaffeNet deploy architecture: http://ethereon.github.io/netscope/#/gist/df3579b407601930c6a7f4021bd917fe  
     - CaffeNet train_val architecture: http://ethereon.github.io/netscope/#/gist/955d3675f7df6b8152a3af33420ae8c3
+
+- Caffe
+	1. Why Caffe has no explicit support for cross validation? https://groups.google.com/forum/#!topic/caffe-users/1UpQdQB5VGE﻿
+
+	2. The first time you define param {lr_mult=...} is for filters and the second one is for the biases - but how would one understand this? https://github.com/BVLC/caffe/issues/3454
+
+	3. Plotting caffe training and test results. http://shengshuyang.github.io/A-step-by-step-guide-to-Caffe.html
 
 # References
 - Forked from: https://github.com/janesjanes/sketchy

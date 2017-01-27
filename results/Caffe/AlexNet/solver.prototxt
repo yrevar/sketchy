@@ -1,0 +1,20 @@
+net: "models/bvlc_alexnet_sketch/train_val.prototxt"
+test_iter: 1000
+# Carry out testing every 500 training iterations.
+test_interval: 500
+solver_type: 5
+base_lr: 0.0001
+# lr_policy: "step"
+# since Adam dynamically changes the learning rate, we set the base learning
+# rate to a fixed value
+lr_policy: "fixed"
+# gamma: 0.1
+# stepsize: 5000
+# Display every 100 iterations
+display: 25
+max_iter: 450000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "models/bvlc_alexnet_sketch/snapshot/"
+solver_mode: GPU
