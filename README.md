@@ -1,4 +1,4 @@
-![](https://i.kinja-img.com/gawker-media/image/upload/s--1tsNRb4_--/c_scale,f_auto,fl_progressive,q_80,w_800/1996og1benxdkgif.gif=160x90)
+![](http://williamorth1123.weebly.com/uploads/3/0/3/9/30394187/2553194_orig.gif)
 <br>Under Construction!
 
 # Sketchy
