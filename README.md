@@ -33,6 +33,15 @@ Caffemodel for final Triplet GoogleNet network: https://goo.gl/NAk8CT
 
 	3. Plotting caffe training and test results. http://shengshuyang.github.io/A-step-by-step-guide-to-Caffe.html
 
+
+## Results:
+
+- Alexet (Solver: Adam, Pre-trained: ImageNet, base_lr: 1e-4)
+
+	![](https://raw.githubusercontent.com/yrevar/sketchy/master/results/Caffe/AlexNet/training_loss_curve.png)
+
+  ![](https://raw.githubusercontent.com/yrevar/sketchy/master/results/Caffe/AlexNet/test_accuracy_curve.png)
+
 # References
 - Forked from: https://github.com/janesjanes/sketchy
 - Patsorn Sangkloy, Nathan Burnell, Cusuh Ham, James Hays. [The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies](http://www.cc.gatech.edu/~hays/tmp/sketchy-database.pdf).
