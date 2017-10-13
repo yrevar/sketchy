@@ -1,9 +1,9 @@
-![](http://williamorth1123.weebly.com/uploads/3/0/3/9/30394187/2553194_orig.gif)
-<br>Under Construction!
+[//]: #![](http://williamorth1123.weebly.com/uploads/3/0/3/9/30394187/2553194_orig.gif)
+[//]: #<br>Under Construction!
 
 # Sketchy
 http://sketchy.eye.gatech.edu  
-Caffemodel for final Triplet GoogleNet network: https://goo.gl/NAk8CT  
+Caffemodel for final Triplet GoogLeNet network: https://goo.gl/NAk8CT  
 
 ## Setup
 1. MAC OSX
@@ -36,11 +36,11 @@ Caffemodel for final Triplet GoogleNet network: https://goo.gl/NAk8CT
 
 ## Results:
 
-- Alexet (Solver: Adam, Pre-trained: ImageNet, base_lr: 1e-4)
+- Alexet
+	![](https://github.com/yrevar/sketchy/blob/master/results/DIGITS/AlexNet/LearningCurve.png)
 
-	![](https://raw.githubusercontent.com/yrevar/sketchy/master/results/Caffe/AlexNet/training_loss_curve.png)
-
-  ![](https://raw.githubusercontent.com/yrevar/sketchy/master/results/Caffe/AlexNet/test_accuracy_curve.png)
+- GoogLeNet
+ 	![](https://github.com/yrevar/sketchy/blob/master/results/DIGITS/GoogLeNet/LearningCurve.png)
 
 # References
 - Forked from: https://github.com/janesjanes/sketchy
