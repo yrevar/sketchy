@@ -1,6 +1,3 @@
-[//]: #![](http://williamorth1123.weebly.com/uploads/3/0/3/9/30394187/2553194_orig.gif)
-[//]: #<br>Under Construction!
-
 # Sketchy
 http://sketchy.eye.gatech.edu  
 Caffemodel for final Triplet GoogLeNet network: https://goo.gl/NAk8CT  
